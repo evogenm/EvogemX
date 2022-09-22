@@ -3,7 +3,7 @@
   
 <h1 align="center">Loja De Produto Esportivos</h1>
 
-<h5 align=”right”>Diego andres santil hauan gimenes </h5>
+<h5 align=”right”>Diego andres santil & hauan gimenes </h5>
 
 <b>ÉvogemX<b>
 
