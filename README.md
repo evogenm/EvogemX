@@ -1,9 +1,9 @@
 # EvogemX
 <html>
   
-<h1 align="center">loja de produto esportivos</h1>
+<h1 align="center">Loja De Produto Esportivos</h1>
 
-<h5 align=”right”>Diego andres santil </h5>
+<h5 align=”right”>Diego andres santil hauan gimenes </h5>
 
 <b>ÉvogemX<b>
 
