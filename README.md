@@ -3,11 +3,11 @@
   
 <h1 align="center">loja de produto esportivos</h1>
 
-<h5 align=”right”>Diego andres santil</h5>
+<h5 align=”right”>Diego andres santil </h5>
 
 <b>ÉvogemX<b>
 
-<h2 align=”left”> <b> a melhor experiencia e qualidade só para voce</h2><b>
+<h2 align=”left”> <b>A melhor experiencia e qualidade só para voce</h2><b>
 <h5 align=“justify”> <p> Nossa missão é proporcionar desenvolvimento nas habilidades tecnológicas, oferecendo aos nossos alunos alternativas inovadoras para ampliar o conhecimento frente as tecnologias</h5> 
 
 <h2 align=”left”> <b>Visão</h2><b>
