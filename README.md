@@ -7,20 +7,21 @@
 
 <b>ÉvogemX<b>
 
-<h2 align=”left”> <b>A melhor experiencia e qualidade só para voce</h2><b>
+<h2 align=”left”> <b>A melhor experiência e qualidade só para você</h2><b>
 <h5 align=“justify”> <p> Nossa missão é proporcionar desenvolvimento nas habilidades tecnológicas, oferecendo aos nossos alunos alternativas inovadoras para ampliar o conhecimento frente as tecnologias</h5> 
 
 <h2 align=”left”> <b>Visão</h2><b>
 <h5 align=“justify”> <p>Estabelecer um roteiro de atividades tecnológicas, elaboradas para o desenvolvimento de ações empreendedoras na prática, visando contribuir com as capacidades, ampliando as habilidades dos estudantes</h5> 
 
 <h2 align=”left”> <b>O que fazemos?</h2><b>
-<h5 align=“justify”> <p> vamos actulizar e adicionar produtos com a melhor qualidade </h5> 
+<h2 align=“justify”> <p> somos um grupo de dois jovems com o intuito de melhorar, e proporcionar a melhor experiência com nossos produtos  </h2> 
 
-<h2 align=”left”> <b>um estudante aprendendo programação..</h2><b>
+<h2 align=”left”> <b>telefone: (44)9885-3176 </h2><b>
 <h5 align=“justify”> <p>tem equipe administrativa, equipe para atendimento de clientes</h5> 
 
-<h2 align=”left”> <b>melhor qualidade de aprodutos esportivos junto com uma experienccia única</h2><b>
-<h5 align=“justify”> <p>tenis, conjuntos spotivos,e todo tipo de acessorios </h5> 
+<h5 align=”left”> <b>Aproveite a variedade de artigos esportivos disponível na ÉvogemX
+
+<h2 align=“justify”> <p>Há mais de 25 anos no mercado, oferecemos peças 100% originais de marcas reconhecidas por sua excelência no ramo esportivo. Entre elas, Adidas, Penalty, Olympikus, Fila, Nike, Asics, Mizuno e muito mais. O melhor é que, graças à sólida parceria criada, conseguimos oferecer preços incríveis. Pode comparar </h2> 
 
   <div class="Apresentações">
   <p> Apresentação do que será exposto par ao público</p>
