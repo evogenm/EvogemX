@@ -19,9 +19,9 @@
 <h5 align=”left”> <b>telefone: (44)9885-3176 </h5><b>
 <h5 align=“justify”> <p>tem equipe administrativa, equipe para atendimento de clientes</h5> 
 
-<h2 align=”left”> <b>Aproveite a variedade de artigos esportivos disponível na ÉvogemX
+<h5 align=”left”> <b>Aproveite a variedade de artigos esportivos disponível na ÉvogemX
 
-<h5 align=“justify”> <p> Oferecemos peças 100% originais de marcas reconhecidas por sua excelência no ramo esportivo. Entre elas, Adidas, Penalty, Nike, Asics,e muito mais. O melhor é que, graças à sólida parceria criada, conseguimos oferecer preços incríveis.</h5> 
+<h2 align=“justify”> <p> Oferecemos peças 100% originais de marcas reconhecidas por sua excelência no ramo esportivo. Entre elas, Adidas, Penalty, Nike, Asics,e muito mais. O melhor é que, graças à sólida parceria criada, conseguimos oferecer preços incríveis.</h2> 
 
   <div class="Apresentações">
   <p> Apresentação do que será exposto par ao público</p>
