@@ -10,7 +10,7 @@
 <h2 align=”left”> <b>A melhor experiência e qualidade só para você</h2><b>
 <h5 align=“justify”> <p> Nossa missão é proporcionar desenvolvimento nas habilidades tecnológicas, oferecendo aos nossos alunos alternativas inovadoras para ampliar o conhecimento frente as tecnologias</h5> 
 
-<h5 align=”left”> <b>Visão</h2><b>
+<h2 align=”left”> <b>Visão</h2><b>
 <h5 align=“justify”> <p>Estabelecer um roteiro de atividades tecnológicas, elaboradas para o desenvolvimento de ações empreendedoras na prática, visando contribuir com as capacidades, ampliando as habilidades dos estudantes</h5> 
 
 <h2 align=”left”> <b>O que fazemos?</h2><b>
