@@ -3,7 +3,7 @@
   
 <h1 align="center">Loja De Produto Esportivos</h1>
 
-<h5 align=”right”>Diego andres santil & hauan gimenes </h5>
+<h5 align=”right”>Diego andres santil </h5>
 
 <b>ÉvogemX<b>
 
@@ -14,7 +14,7 @@
 <h5 align=“justify”> <p>Estabelecer um roteiro de atividades tecnológicas, elaboradas para o desenvolvimento de ações empreendedoras na prática, visando contribuir com as capacidades, ampliando as habilidades dos estudantes</h5> 
 
 <h2 align=”left”> <b>O que fazemos?</h2><b>
-<h5 align=“justify”> <p> somos um grupo de dois jovems com o intuito de melhorar, e proporcionar a melhor experiência com nossos produtos  </h2> 
+<h5 align=“justify”> <p>somos um grupo de dois jovems com o intuito de melhorar, e proporcionar a melhor experiência com nossos produtos</h2> 
 
 <h5 align=”left”> <b>telefone: (44)9885-3176 </h5><b>
 <h5 align=“justify”> <p>tem equipe administrativa, equipe para atendimento de clientes</h5> 
