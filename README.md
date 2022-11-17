@@ -21,7 +21,7 @@
 
 <h5 align=”left”> <b>Aproveite a variedade de artigos esportivos disponível na ÉvogemX
 
-<h5 align=“justify”> <p>Oferecemos peças 100% originais de marcas reconhecidas por sua excelência no ramo esportivo. Entre elas, Adidas, Penalty, Nike, Asics,e muito mais. O melhor é que, graças à sólida parceria criada, conseguimos oferecer preços incríveis.</h5> 
+<h5 align=”left”> <p>Oferecemos peças 100% originais de marcas reconhecidas por sua excelência no ramo esportivo. Entre elas, Adidas, Penalty, Nike, Asics,e muito mais. O melhor é que, graças à sólida parceria criada, conseguimos oferecer preços incríveis.</h5> 
 
   <div class="Apresentações">
   <p> Apresentação do que será exposto par ao público</p>
